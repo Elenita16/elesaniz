@@ -1,0 +1,157 @@
+{
+    "Nombre": "Poblacion Virtual Ejercicio 2",
+    "Responsable": "Elena Santamaria",
+    "nDias": 213,
+    "Ratones": [
+        {
+            "codigoRaton": 1,
+            "FechaNac": "10/10/2019",
+            "Peso": 200.23,
+            "Sexo": "H",
+            "Temperatura": 40.0,
+            "Descripcion": [
+                "Es azul",
+                "Tiene los ojos negros"
+            ],
+            "Cromosomas": [
+                "X",
+                "X"
+            ]
+        },
+        {
+            "codigoRaton": 2,
+            "FechaNac": "28/10/2019",
+            "Peso": 200.23,
+            "Sexo": "H",
+            "Temperatura": 40.0,
+            "Descripcion": [
+                "Es azul",
+                "Es inquiet@"
+            ],
+            "Cromosomas": [
+                "X",
+                "X"
+            ]
+        },
+        {
+            "codigoRaton": 3,
+            "FechaNac": "30/11/2019",
+            "Peso": 200.23,
+            "Sexo": "M",
+            "Temperatura": 41.1,
+            "Descripcion": [
+                "Es azul",
+                "Tiene los ojos rojos"
+            ],
+            "Cromosomas": [
+                "X",
+                "Y"
+            ]
+        },
+        {
+            "codigoRaton": 4,
+            "FechaNac": "30/11/2019",
+            "Peso": 205.1,
+            "Sexo": "M",
+            "Temperatura": 40.0,
+            "Descripcion": [
+                "Es azul",
+                "Es inquiet@"
+            ],
+            "Cromosomas": [
+                "X",
+                "Y"
+            ]
+        },
+        {
+            "codigoRaton": 5,
+            "FechaNac": "28/10/2019",
+            "Peso": 178.98,
+            "Sexo": "M",
+            "Temperatura": 40.0,
+            "Descripcion": [
+                "Es blanco",
+                "Tiene los ojos negros"
+            ],
+            "Cromosomas": [
+                "X",
+                "Y"
+            ]
+        },
+        {
+            "codigoRaton": 6,
+            "FechaNac": "03/10/2019",
+            "Peso": 178.98,
+            "Sexo": "M",
+            "Temperatura": 39.5,
+            "Descripcion": [
+                "Es gris",
+                "Es inquiet@"
+            ],
+            "Cromosomas": [
+                "X",
+                "Y"
+            ]
+        },
+        {
+            "codigoRaton": 7,
+            "FechaNac": "15/10/2019",
+            "Peso": 198.32,
+            "Sexo": "M",
+            "Temperatura": 40.0,
+            "Descripcion": [
+                "Es blanco",
+                "Es inquiet@"
+            ],
+            "Cromosomas": [
+                "X",
+                "Y"
+            ]
+        },
+        {
+            "codigoRaton": 8,
+            "FechaNac": "14/10/2019",
+            "Peso": 187.14,
+            "Sexo": "M",
+            "Temperatura": 39.5,
+            "Descripcion": [
+                "Es blanco",
+                "Tiene los ojos rojos"
+            ],
+            "Cromosomas": [
+                "X",
+                "Y"
+            ]
+        },
+        {
+            "codigoRaton": 9,
+            "FechaNac": "01/11/2019",
+            "Peso": 169.33,
+            "Sexo": "H",
+            "Temperatura": 39.5,
+            "Descripcion": [
+                "Es azul",
+                "Es inquiet@"
+            ],
+            "Cromosomas": [
+                "XM",
+                "XM"
+            ]
+        },
+        {
+            "codigoRaton": 10,
+            "FechaNac": "01/11/2019",
+            "Peso": 198.32,
+            "Sexo": "M",
+            "Temperatura": 38.2,
+            "Descripcion": [
+                "Es gris",
+                "Tiene los ojos negros"
+            ],
+            "Cromosomas": [
+                "XM",
+                "YM"
+            ]
+        }
+    ]
+}
